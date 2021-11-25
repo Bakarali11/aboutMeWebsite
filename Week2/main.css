@@ -1,0 +1,13 @@
+body {
+    background-color: aqua;
+}
+h1 {    
+color:black
+}
+p {
+    background-color: darkgrey;
+    font-size: medium;
+}
+#bottomParagraph {
+    background-color: darkmagenta;
+}

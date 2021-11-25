@@ -1,0 +1,53 @@
+body {
+    background-color: rgb(44, 43, 43);
+}
+h1 {    
+color:white;
+font-size: 40px;
+}
+p1 {
+    color: white;
+}
+h2 {
+    color: white;
+}
+p2 {
+    color: white;
+}
+ol {
+    color: white;
+}
+p3 {
+    color: white;
+}
+h3 {
+    color: white;
+}
+p4 {
+    color: white;
+}
+p5 {
+    color: white;
+}
+img {
+    border-radius: 450px;
+}
+img {
+    max-width: 400px;
+}
+img:hover {
+    transform: scaleX(-1);
+}
+
+p10 {
+    color: white;
+    font-size: 27px
+}
+p11 {
+    color: white;
+    font-size: 27px
+}
+p12 {
+    color: white;
+    font-size: 27#px
+}
